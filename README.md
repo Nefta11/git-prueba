@@ -17,3 +17,14 @@ Underlin 2
 - formato *bold o strong* de la primer forma.
 - formato _bold o strong_ de la segunda forma.
 
+
+
+# Listas en markdown
+1. uno
+2. dos
+3. tres
+- Siuuu
+
+# Links
+- <a href="www.google.com">Google (link prueba)</a>
+- [Esto es un link en Mrakdown](https://github.com/Nefta11)
